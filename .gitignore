@@ -1,2 +1,9 @@
 img/*
 docs/*
+img/
+docs/
+
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
